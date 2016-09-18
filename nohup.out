@@ -1,0 +1,1187 @@
+BASE_DIR--------------/home/ada/plate/plate
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 04:23:01
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+[28/Apr/2016 04:25:53] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:25:53] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:25:53] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:25:53] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:25:53] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:53] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:25:54] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:25:54] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:25:54] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:25:54] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:25:54] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:25:54] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:25:54] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:25:54] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:01] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:01] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:01] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:02] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:02] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:02] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:02] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:02] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:02] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:02] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:03] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:03] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:03] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:03] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:03] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:03] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:03] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:03] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:03] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:03] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:05] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:05] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:07] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:07] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:07] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:07] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:07] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:07] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:07] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:07] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:08] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:08] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:26:08] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:26:08] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:26:08] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:42:05] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:42:05] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:05] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:42:06] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:42:06] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 04:42:06] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+Not Found: /manage
+[28/Apr/2016 04:46:55] "GET /manage HTTP/1.1" 404 2167
+Not Found: /manage
+[28/Apr/2016 04:47:21] "GET /manage HTTP/1.1" 404 2167
+Not Found: /manage
+[28/Apr/2016 04:47:35] "GET /manage HTTP/1.1" 404 2167
+Not Found: /manage/
+[28/Apr/2016 04:47:39] "GET /manage/ HTTP/1.1" 404 2170
+[28/Apr/2016 04:58:51] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 04:58:52] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 04:58:52] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 04:58:57] "POST /sub/ HTTP/1.1" 200 1
+[28/Apr/2016 05:44:09] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 05:44:09] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 05:44:09] "GET /static/js/main.js HTTP/1.1" 304 0
+[28/Apr/2016 05:44:46] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 05:44:56] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 05:44:56] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 05:44:56] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 05:44:56] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 05:44:56] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 05:44:57] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 05:44:57] "GET /static/js/main.js HTTP/1.1" 200 5296
+[28/Apr/2016 05:44:57] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 05:44:57] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 05:44:57] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+Not Found: /favicon.ico
+[28/Apr/2016 05:44:57] "GET /favicon.ico HTTP/1.1" 404 2182
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 50, in sub
+    imgType = request.FILES['file'].name.split(".")[1]
+  File "/usr/lib/python2.7/site-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+MultiValueDictKeyError: "'file'"
+[28/Apr/2016 05:45:03] "POST /sub/ HTTP/1.1" 500 14633
+[28/Apr/2016 05:46:40] "POST /sub/ HTTP/1.1" 200 1
+[28/Apr/2016 05:46:40] "POST /sub/ HTTP/1.1" 200 1
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 04:25:22
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 06:14:51
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+[28/Apr/2016 06:16:42] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 06:16:42] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 06:16:42] "GET /static/js/main.js HTTP/1.1" 304 0
+Internal Server Error: /manage/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 41, in manage
+    path = DIR+name
+NameError: global name 'DIR' is not defined
+[28/Apr/2016 06:16:46] "GET /manage/ HTTP/1.1" 500 62212
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 06:15:19
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /manage/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 42, in manage
+    w,h = Image.open(path).size
+NameError: global name 'Image' is not defined
+[28/Apr/2016 06:17:27] "GET /manage/ HTTP/1.1" 500 61895
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 06:17:27
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+[28/Apr/2016 06:17:40] "GET /manage/ HTTP/1.1" 200 3408
+[28/Apr/2016 06:17:40] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 06:17:40] "GET /static/upload/1461817052.jpg HTTP/1.1" 200 266106
+[28/Apr/2016 06:17:40] "GET /static/upload/1461822400.jpg HTTP/1.1" 200 137338
+[28/Apr/2016 06:17:40] "GET /static/upload/1461819537.jpg HTTP/1.1" 200 136046
+[28/Apr/2016 06:18:02] "GET /manage/ HTTP/1.1" 200 3408
+[28/Apr/2016 06:18:02] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 06:18:03] "GET /static/upload/1461817052.jpg HTTP/1.1" 200 266106
+[28/Apr/2016 06:18:03] "GET /static/upload/1461819537.jpg HTTP/1.1" 200 136046
+[28/Apr/2016 06:18:03] "GET /static/upload/1461822400.jpg HTTP/1.1" 200 137338
+[28/Apr/2016 10:15:46] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:15:47] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:15:47] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 10:15:47] "GET /static/js/main.js HTTP/1.1" 304 0
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 06:17:39
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+289.351851852
+50.0
+195.169712794
+195.169712794
+289.351851852
+50.0
+195.169712794
+195.169712794
+[28/Apr/2016 10:35:02] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:35:02] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 10:35:02] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:35:02] "GET /static/js/main.js HTTP/1.1" 200 5292
+Not Found: /favicon.ico
+[28/Apr/2016 10:35:03] "GET /favicon.ico HTTP/1.1" 404 2305
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 85, in sub
+    with open(PlateDIR+str(i)+".txt","w") as f:
+IOError: [Errno 2] No such file or directory: '/home/ada/plate/plate/static/plateTxt/0.txt'
+[28/Apr/2016 10:35:40] "POST /sub/ HTTP/1.1" 500 14611
+[28/Apr/2016 10:35:46] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 85, in sub
+    with open(PlateDIR+str(i)+".txt","w") as f:
+IOError: [Errno 2] No such file or directory: '/home/ada/plate/plate/static/plateTxt/0.txt'
+[28/Apr/2016 10:35:51] "POST /sub/ HTTP/1.1" 500 14668
+[28/Apr/2016 10:37:01] "POST /sub/ HTTP/1.1" 200 1
+[28/Apr/2016 10:37:28] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:37:28] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:37:28] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:37:28] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:37:28] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:37:28] "GET /static/js/main.js HTTP/1.1" 200 5292
+[28/Apr/2016 10:37:28] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:37:28] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:37:28] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:37:28] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:37:28] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:37:52] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:37:52] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:37:52] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:37:52] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:37:52] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:37:52] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:37:52] "GET /static/js/main.js HTTP/1.1" 200 5292
+[28/Apr/2016 10:37:52] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:37:52] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:37:52] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:37:52] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:38:17] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:38:17] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:38:17] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:38:17] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:38:17] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:38:18] "GET /static/js/main.js HTTP/1.1" 200 5292
+[28/Apr/2016 10:38:18] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:38:18] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:38:18] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:38:18] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:38:18] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:38:37] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:38:37] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:38:37] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:38:37] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:38:37] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:38:37] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:38:37] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:38:37] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:38:37] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:38:37] "GET /static/js/main.js HTTP/1.1" 200 5292
+[28/Apr/2016 10:38:37] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:43:11] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:43:11] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:43:11] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:43:11] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:43:11] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:43:11] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:43:11] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:43:11] "GET /static/js/main.js HTTP/1.1" 200 5292
+[28/Apr/2016 10:43:11] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:43:11] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:43:11] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:43:21] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:43:21] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:43:21] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:43:21] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:43:21] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:43:21] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:43:21] "GET /static/js/main.js HTTP/1.1" 200 5292
+[28/Apr/2016 10:43:21] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:43:21] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:43:21] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:43:21] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:44:08] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:44:08] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 10:44:08] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:44:08] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 10:44:08] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 10:44:08] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 10:44:08] "GET /static/js/main.js HTTP/1.1" 200 5290
+[28/Apr/2016 10:44:08] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 10:44:08] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 10:44:08] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 10:44:08] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[28/Apr/2016 10:44:19] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 10:44:19] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 10:44:19] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/css/main.css HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[28/Apr/2016 10:44:19] "GET /static/js/main.js HTTP/1.1" 200 5290
+[28/Apr/2016 10:44:19] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[28/Apr/2016 10:44:46] "POST /sub/ HTTP/1.1" 200 1
+[28/Apr/2016 11:28:16] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 11:28:18] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 11:28:18] "GET /static/js/main.js HTTP/1.1" 200 5290
+Not Found: /favicon.ico
+[28/Apr/2016 11:28:19] "GET /favicon.ico HTTP/1.1" 404 2305
+Not Found: /index
+[28/Apr/2016 11:28:36] "GET /index HTTP/1.1" 301 0
+[28/Apr/2016 11:28:36] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 11:28:36] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[28/Apr/2016 11:28:36] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 11:28:36] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[28/Apr/2016 11:28:36] "GET /static/css/main.css HTTP/1.1" 200 4826
+[28/Apr/2016 11:28:36] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[28/Apr/2016 11:28:36] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[28/Apr/2016 11:28:36] "GET /static/js/main.js HTTP/1.1" 200 5290
+[28/Apr/2016 11:28:36] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[28/Apr/2016 11:28:36] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[28/Apr/2016 11:28:36] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+Not Found: /favicon.ico
+[28/Apr/2016 11:28:36] "GET /favicon.ico HTTP/1.1" 404 2305
+[28/Apr/2016 12:04:07] "GET /index/ HTTP/1.1" 200 4505
+[28/Apr/2016 12:04:07] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[28/Apr/2016 12:04:07] "GET /static/js/main.js HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /index/ HTTP/1.1" 200 4505
+[29/Apr/2016 04:05:14] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:05:14] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/css/main.css HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[29/Apr/2016 04:05:14] "GET /static/js/main.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[29/Apr/2016 04:05:15] "GET /favicon.ico HTTP/1.1" 404 2305
+[29/Apr/2016 04:06:09] "POST /sub/ HTTP/1.1" 200 1
+[29/Apr/2016 04:14:15] "GET /index/ HTTP/1.1" 200 4505
+[29/Apr/2016 04:14:15] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:39:00] "GET /index/ HTTP/1.1" 200 4505
+[29/Apr/2016 04:39:00] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:00] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:00] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:39:00] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:00] "GET /static/css/main.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:00] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:00] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:00] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/js/main.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /index/ HTTP/1.1" 200 4505
+[29/Apr/2016 04:39:01] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/css/main.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:39:01] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/js/main.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:01] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /index/ HTTP/1.1" 200 4505
+[29/Apr/2016 04:39:26] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/css/main.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:39:26] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/js/main.js HTTP/1.1" 304 0
+[29/Apr/2016 04:39:26] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[29/Apr/2016 04:49:52] "GET /index/ HTTP/1.1" 200 6402
+[29/Apr/2016 04:49:52] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:50:19] "POST /sub/ HTTP/1.1" 200 1
+[29/Apr/2016 04:50:44] "GET /index/ HTTP/1.1" 200 6402
+[29/Apr/2016 04:50:44] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 04:50:55] "POST /sub/ HTTP/1.1" 200 1
+[29/Apr/2016 04:51:15] "POST /sub/ HTTP/1.1" 200 1
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have unapplied migrations; your app may not work properly until they are applied.
+Run 'python manage.py migrate' to apply them.
+April 28, 2016 - 10:33:26
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x30ee7d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 85
+    line = str(i)+"."+imgType+"\t"+x+"\t"+y+"\t"+w+"\t"+h
+                                                        ^
+IndentationError: unindent does not match any outer indentation level
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:51:59
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:52:17
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:52:19
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:52:25
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 81, in sub
+    imgName = handle_uploaded_file(request.FILES['file'],imgType,i)
+UnboundLocalError: local variable 'i' referenced before assignment
+[29/Apr/2016 04:53:05] "POST /sub/ HTTP/1.1" 500 14600
+[29/Apr/2016 04:53:13] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 81, in sub
+    imgName = handle_uploaded_file(request.FILES['file'],imgType,i)
+UnboundLocalError: local variable 'i' referenced before assignment
+[29/Apr/2016 04:53:25] "POST /sub/ HTTP/1.1" 500 14656
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:52:28
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:53:51
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:54:05
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 81, in sub
+    imgType = request.FILES['file'].name.split(".")[1]
+  File "/usr/lib/python2.7/site-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+MultiValueDictKeyError: "'file'"
+[29/Apr/2016 04:55:36] "POST /sub/ HTTP/1.1" 500 14636
+[29/Apr/2016 04:55:39] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 81, in sub
+    imgType = request.FILES['file'].name.split(".")[1]
+  File "/usr/lib/python2.7/site-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+MultiValueDictKeyError: "'file'"
+[29/Apr/2016 04:55:51] "POST /sub/ HTTP/1.1" 500 14693
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 82, in sub
+    imgName = handle_uploaded_file(request.FILES['file'],imgType,i)
+  File "/home/ada/plate/plate/Plate/views.py", line 30, in handle_uploaded_file
+    return newImageName
+NameError: global name 'newImageName' is not defined
+[29/Apr/2016 04:56:14] "POST /sub/ HTTP/1.1" 500 14726
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:55:10
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:56:31
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:56:40
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:58:08
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x26dc7d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 64
+    def sub(request):
+      ^
+IndentationError: expected an indented block
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:58:38
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x1a177d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 65
+    return count
+         ^
+IndentationError: expected an indented block
+Unhandled exception in thread started by <function wrapper at 0x173e7d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 65
+    return count
+         ^
+IndentationError: expected an indented block
+Unhandled exception in thread started by <function wrapper at 0x285a7d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 65
+    return count
+         ^
+IndentationError: expected an indented block
+Unhandled exception in thread started by <function wrapper at 0x26df7d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 65
+    return count
+         ^
+IndentationError: expected an indented block
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:59:45
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 04:59:59
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:00:13
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:00:36
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x2ed77d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 69
+    return count
+         ^
+IndentationError: expected an indented block
+Unhandled exception in thread started by <function wrapper at 0x256e7d0>
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/lib/python2.7/site-packages/django/core/management/base.py", line 426, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/lib/python2.7/site-packages/django/core/checks/registry.py", line 75, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 10, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/lib/python2.7/site-packages/django/core/checks/urls.py", line 19, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 417, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib/python2.7/site-packages/django/utils/functional.py", line 33, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python2.7/site-packages/django/core/urlresolvers.py", line 410, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ada/plate/plate/PlateWeb/urls.py", line 18, in <module>
+    from Plate import views
+  File "/home/ada/plate/plate/Plate/views.py", line 70
+    return count
+         ^
+IndentationError: expected an indented block
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:01:01
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:01:06
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:01:08
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+[29/Apr/2016 05:01:26] "GET /index/ HTTP/1.1" 200 6402
+[29/Apr/2016 05:01:26] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[29/Apr/2016 05:01:26] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 35452
+[29/Apr/2016 05:01:26] "GET /static/assets/js/jquery.min.js HTTP/1.1" 200 95931
+[29/Apr/2016 05:01:26] "GET /static/dist/cropper.js HTTP/1.1" 200 53826
+[29/Apr/2016 05:01:26] "GET /static/css/main.css HTTP/1.1" 200 4826
+[29/Apr/2016 05:01:26] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[29/Apr/2016 05:01:26] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[29/Apr/2016 05:01:26] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[29/Apr/2016 05:01:26] "GET /static/js/main.js HTTP/1.1" 200 5290
+[29/Apr/2016 05:01:26] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 83, in sub
+    i = getCount()
+  File "/home/ada/plate/plate/Plate/views.py", line 64, in getCount
+    with open(COUNTDIR,"r") as f:
+IOError: [Errno 21] Is a directory: '/home/ada/plate/plate/static/'
+[29/Apr/2016 05:01:39] "POST /sub/ HTTP/1.1" 500 14629
+[29/Apr/2016 05:01:42] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+Internal Server Error: /sub/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ada/plate/plate/Plate/views.py", line 83, in sub
+    i = getCount()
+  File "/home/ada/plate/plate/Plate/views.py", line 64, in getCount
+    with open(COUNTDIR,"r") as f:
+IOError: [Errno 21] Is a directory: '/home/ada/plate/plate/static/'
+[29/Apr/2016 05:01:58] "POST /sub/ HTTP/1.1" 500 14706
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:01:15
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+[29/Apr/2016 05:02:59] "POST /sub/ HTTP/1.1" 200 1
+BASE_DIR--------------/home/ada/plate/plate
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2016 - 05:02:42
+Django version 1.9.2, using settings 'PlateWeb.settings'
+Starting development server at http://192.168.131.198:8000/
+Quit the server with CONTROL-C.
+[29/Apr/2016 05:04:38] "POST /sub/ HTTP/1.1" 200 1
+[29/Apr/2016 05:05:34] "POST /sub/ HTTP/1.1" 200 1
+[02/May/2016 03:18:43] "GET /index/ HTTP/1.1" 200 6402
+[02/May/2016 03:18:43] "GET /static/css/normalize.css HTTP/1.1" 200 1825
+[02/May/2016 03:18:43] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[02/May/2016 03:18:43] "GET /static/dist/cropper.css HTTP/1.1" 200 4595
+[02/May/2016 03:18:43] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 200 117150
+[02/May/2016 03:18:43] "GET /static/css/main.css HTTP/1.1" 200 4826
+[02/May/2016 03:18:43] "GET /static/assets/img/pic.jpg HTTP/1.1" 200 133368
+[02/May/2016 03:18:43] "GET /static/js/main.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[02/May/2016 03:18:43] "GET /favicon.ico HTTP/1.1" 404 2305
+[02/May/2016 03:19:19] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[02/May/2016 03:20:50] "GET /index/ HTTP/1.1" 200 6402
+[02/May/2016 03:20:50] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[02/May/2016 03:20:50] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/css/main.css HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[02/May/2016 03:20:50] "GET /static/js/main.js HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /index/ HTTP/1.1" 200 6402
+[02/May/2016 03:21:01] "GET /static/css/normalize.css HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/css/default.css%22 HTTP/1.1" 404 1679
+[02/May/2016 03:21:01] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/dist/cropper.css HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/css/main.css HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/assets/js/jquery.min.js HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/assets/img/pic.jpg HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/dist/cropper.js HTTP/1.1" 304 0
+[02/May/2016 03:21:01] "GET /static/js/main.js HTTP/1.1" 304 0
+BASE_DIR--------------/home/himon/code/label-tool/labeler
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 02, 2016 - 13:15:31
+Django version 1.9.5, using settings 'PlateWeb.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+BASE_DIR--------------/home/himon/code/label-tool/labeler
